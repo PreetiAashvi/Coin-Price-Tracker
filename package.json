@@ -1,6 +1,6 @@
 {
-  "homepage": "https://PreetiAashvi.github.io/Cryptocurrency-Price-Tracker-App",
-  "name": "cryptocurrency_price_tracker_app",
+  "homepage": "https://PreetiAashvi.github.io/Coin-Price-Tracker",
+    "name": "coin_price_tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
