@@ -57,6 +57,21 @@ function App() {
           />
         </form>
       </div>
+      <div className='coin-container'>
+        <div className='coin-row'>
+            <div className='coin'>
+                
+                <h1 className='table-heading'>CRYPTOCOIN</h1>
+                <p className='table-heading'>SYMBOL</p>
+            </div>
+            <div className='coin-data'>
+                <p className='table-heading'>PRICE</p>
+                <p className='table-heading'>VOLUME</p>
+                <p className='table-heading'>PRICE CHANGE</p>
+                <p className="table-heading">MARKET CAP</p>
+            </div>
+        </div>
+    </div>
       {filteredCoins.map(coin => {
         return(
           <Coin
