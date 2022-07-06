@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cryptocurrency-Price-Tracker-App/static/css/main.3f6f0c5e.css",
-    "main.js": "/Cryptocurrency-Price-Tracker-App/static/js/main.f60c8ee6.js",
-    "index.html": "/Cryptocurrency-Price-Tracker-App/index.html",
-    "main.3f6f0c5e.css.map": "/Cryptocurrency-Price-Tracker-App/static/css/main.3f6f0c5e.css.map",
-    "main.f60c8ee6.js.map": "/Cryptocurrency-Price-Tracker-App/static/js/main.f60c8ee6.js.map"
+    "main.css": "/Coin-Price-Tracker/static/css/main.3f6f0c5e.css",
+    "main.js": "/Coin-Price-Tracker/static/js/main.3578c58a.js",
+    "index.html": "/Coin-Price-Tracker/index.html",
+    "main.3f6f0c5e.css.map": "/Coin-Price-Tracker/static/css/main.3f6f0c5e.css.map",
+    "main.3578c58a.js.map": "/Coin-Price-Tracker/static/js/main.3578c58a.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6f0c5e.css",
-    "static/js/main.f60c8ee6.js"
+    "static/js/main.3578c58a.js"
   ]
 }
